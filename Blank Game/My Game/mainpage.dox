@@ -1,0 +1,53 @@
+/// \mainpage The Blank Game
+/// 
+/// This is pretty much what it says, a blank 2d game with
+/// a geometrically implausible shape in the background
+/// and a rotating sprite of some amusing text.
+/// Its purpose is to get you started quickly on the basics
+/// of making a 2D game with the LARC Engine. You can also
+/// use it to start development of a new game. The background image
+/// is mostly white with a colored shape at the center (see below, left).
+/// This is rendered with a single sprite that rotates around
+/// the center of the image (see below, right).
+///
+/// @image html images.png
+///
+/// The overall effect looks something like this:
+///
+/// @image html textwheel128.gif
+/// 
+/// Keyboard Controls
+/// -----------------
+///
+/// <center>
+/// <table>
+/// <tr>
+/// <td><center><b>Key</b></center></td>
+/// <td><center><b>Action</b></center></td>
+/// <tr>
+/// <td>F1</td>
+/// <td>Help (this document)</td>
+/// <tr>
+/// <td>F2</td>
+/// <td>Toggle frame rate display</td>
+/// <tr>
+/// <td>Space Down</td>
+/// <td>Play a clang sound</td>
+/// <tr>
+/// <td>Space Up</td>
+/// <td>Play a grunt sound</td>
+/// <tr>
+/// <td>Backspace</td>
+/// <td>Restart game</td>
+/// <tr>
+/// <td>PrtScr (hold down)</td>
+/// <td>Save screenshot to a PNG file</td>
+/// </table>
+/// </center>
+/// <p></p>
+///
+/// The LARC Engine
+/// ---------------
+///
+/// This code uses the [LARC Engine](https://larc.unt.edu/code/engine/) and is
+/// part of the [LARC Code Base](https://larc.unt.edu/code/).

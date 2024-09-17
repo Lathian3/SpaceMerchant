@@ -1,0 +1,3 @@
+﻿  Game.cpp
+Game.obj : error LNK2019: unresolved external symbol "public: __cdecl Player::Player<unsigned int>(unsigned int,struct DirectX::SimpleMath::Vector2 const &)" (??$?0I@Player@@QEAA@IAEBUVector2@SimpleMath@DirectX@@@Z) referenced in function "private: void __cdecl CGame::BeginGame(void)" (?BeginGame@CGame@@AEAAXXZ)
+C:\Users\tyler\Source\Repos\lab-1\Blank Game\x64\Debug\Game.exe : fatal error LNK1120: 1 unresolved externals

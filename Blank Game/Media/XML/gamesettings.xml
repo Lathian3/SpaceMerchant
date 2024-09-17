@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- Game settings -->
+
+<settings>
+  <game name="Blank 2D Game" />
+  <renderer width="1024" height="768"/>
+   
+  <font file="Media\Fonts\AverageSans_24.spritefont"/>
+
+  <!-- sprites -->
+   
+  <sprites path="Media\Images">
+    <sprite name="glow_circle" file="glowCircle.png"/>
+    <sprite name="background" file="background.png"/>
+    <sprite name="blue1" file="BlueBackground1.png"/>
+    <sprite name="ship" file="ships.png"/>
+    <sprite name="textwheel" file="textwheel.png"/>
+    <sprite name="pig" file="pig.png"/>
+  </sprites>
+
+  <!-- sound -->
+  
+  <sounds path="Media\Sounds">
+    <sound name="clang" file="clang.wav" instances="8"/>
+    <sound name="grunt" file="umph.wav" instances="8"/>
+    <sound name="oink" file="oink.wav" instances="8"/>
+  </sounds>
+</settings>
